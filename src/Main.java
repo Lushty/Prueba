@@ -10,4 +10,6 @@
 public class Main {
     //a
     Prueba tumae = new Prueba(12);
+    Prueba b = new Prueba(15);
+    Prueba a = new Prueba(14);
 }
