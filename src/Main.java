@@ -8,5 +8,6 @@
  * @author ksarniento
  */
 public class Main {
-    
+    //a
+    Prueba tumae = new Prueba(12);
 }
